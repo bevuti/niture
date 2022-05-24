@@ -1,0 +1,9 @@
+API key fingerprint: 82:6d:1d:f8:27:8f:9c:71:d9:d8:98:75:e4:4d:5c:cd
+
+
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa2zkh7voqmdiajyi3dz4r32s6457vrtumtpofbemh5aedtxumgbjq
+fingerprint=82:6d:1d:f8:27:8f:9c:71:d9:d8:98:75:e4:4d:5c:cd
+tenancy=ocid1.tenancy.oc1..aaaaaaaacw7ysla6w2za6qrm5kidnr7ste47dzxasswq2edhku7yu4vm4lca
+region=us-ashburn-1
+key_file=<path to your private keyfile> # TODO
